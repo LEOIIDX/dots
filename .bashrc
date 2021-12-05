@@ -11,6 +11,7 @@ alias l.='ls -d .* --color=auto'
 alias view='vim -R'
 alias brightC='/opt/scripts/brightChange.sh'
 alias shutdown='sudo openrc-shutdown now -p'
+alias redshift='redshift -P -O'
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
@@ -18,3 +19,4 @@ alias shutdown='sudo openrc-shutdown now -p'
 # alias ls='ls --color=auto'
 # PS1='[\u@\h \W]\$ '
 PS1='\[\e[0;1;36m\][\[\e[0;1;36m\]\u\[\e[0;1;36m\]@\[\e[0;1;36m\]\h \[\e[0;35m\]\W\[\e[0;1;36m\]]\[\e[0;1;36m\]\$\[\e[0m\]'
+export PATH="/home/leo/Documents/Scripts:$PATH"
