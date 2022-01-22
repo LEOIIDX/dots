@@ -1,37 +1,47 @@
 {
-    "workbench.colorTheme": "Generated theme",
-    "editor.cursorStyle": "block",
-    "editor.fontFamily": "'hack', 'monospace', monospace, 'Droid Sans Fallback'",
+	"workbench.colorTheme": "Generated theme",
+	"editor.cursorStyle": "block",
 
-    "workbench.colorCustomizations": {
+	"workbench.colorCustomizations": {
 
-        "terminal.background":"#333333",
-        "terminal.foreground":"#dddad6",
-        "terminal.ansiBlack":"#1D2021",
-        "terminal.ansiBrightBlack":"#665C54",
-        "terminal.ansiBrightBlue":"#e08283",
-        "terminal.ansiBrightCyan":"#adfdd5",
-        "terminal.ansiBrightGreen":"#73d0a3",
-        "terminal.ansiBrightMagenta":"#fdadc8",
-        "terminal.ansiBrightRed":"#d24d44",
-        "terminal.ansiBrightWhite":"#ffffff",
-        "terminal.ansiBrightYellow":"#ffe27b",
-        "terminal.ansiBlue":"#e08283",
-        "terminal.ansiCyan":"#adfdd5",
-        "terminal.ansiGreen":"#73d0a3",
-        "terminal.ansiMagenta":"#fdadc8",
-        "terminal.ansiRed":"#d24d44",
-        "terminal.ansiWhite":"#ffffff",
-        "terminal.ansiYellow":"#ffe27b"
-    },
-    "outline.problems.enabled": false,
-    "outline.problems.colors": false,
-    "problems.autoReveal": false,
-    "problems.decorations.enabled": false,
-    "outline.problems.badges": false,
-    "python.linting.maxNumberOfProblems": 0,
-    "editor.fontSize": 15,
-    "terminal.integrated.fontSize": 15,
-    "clangd.path": "/home/leo/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/13.0.0/clangd_13.0.0/bin/clangd",
-    
-    }
+		"terminal.background":"#333333",
+		"terminal.foreground":"#dddad6",
+		"terminal.ansiBlack":"#1D2021",
+		"terminal.ansiBrightBlack":"#665C54",
+		"terminal.ansiBrightBlue":"#e08283",
+		"terminal.ansiBrightCyan":"#adfdd5",
+		"terminal.ansiBrightGreen":"#75d0a3",
+		"terminal.ansiBrightMagenta":"#fdadc8",
+		"terminal.ansiBrightRed":"#d24d44",
+		"terminal.ansiBrightWhite":"#ffffff",
+		"terminal.ansiBrightYellow":"#ffe27b",
+		"terminal.ansiBlue":"#e08283",
+		"terminal.ansiCyan":"#adfdd5",
+		"terminal.ansiGreen":"#73d0a3",
+		"terminal.ansiMagenta":"#fdadc8",
+		"terminal.ansiRed":"#d24d44",
+		"terminal.ansiWhite":"#ffffff",
+		"terminal.ansiYellow":"#ffe27b"
+	},
+	"outline.problems.enabled": false,
+	"outline.problems.colors": false,
+	"problems.autoReveal": false,
+	"problems.decorations.enabled": false,
+	"outline.problems.badges": false,
+	"python.linting.maxNumberOfProblems": 0,
+	"editor.fontSize": 15,
+	"terminal.integrated.fontSize": 15,
+	"clangd.path": "/home/leo/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/13.0.0/clangd_13.0.0/bin/clangd",
+	"window.menuBarVisibility": "toggle",
+	
+	"bracket-pair-colorizer-2.colors": [
+		
+		"#ffffff",
+		"#ffe27b",
+		"#73d0a3",
+		"#e08283"
+	],
+	"editor.insertSpaces": false,
+	"editor.fontFamily": "'Hack', 'monospace', monospace, 'Droid Sans Fallback'",
+	"telemetry.telemetryLevel": "off"
+}
